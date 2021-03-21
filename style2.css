@@ -60,6 +60,9 @@ body {
 	width: 280px;
 	border-color: #009E00;
 }
+.but::placeholder {
+	color: #3498db;
+}
 
 .button {
 	border: 0;
